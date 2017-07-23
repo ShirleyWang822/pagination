@@ -1,0 +1,21 @@
+th.col-heading, td.col-heading {
+	width: 50%;
+}
+th.col-source, td.col-source {
+	width: 10%;
+}
+th.col-author, td.col-author {
+	width: 10%;
+}
+th.col-content, td.col-content {
+	width: 10%;
+}
+th.col-date, td.col-date {
+	width: 10%;
+}
+th.col-like, td.col-like {
+	width: 10%;
+}
+.tab-pane {
+	margin-left: 100px;
+}
