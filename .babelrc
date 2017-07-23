@@ -1,0 +1,3 @@
+{
+  "presets": ["latest", "react"] // presets include 15,16,17
+}
